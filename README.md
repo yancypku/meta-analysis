@@ -1,2 +1,2 @@
 # meta-analysis
-warming experiments on the Tibetan Plateau
+Warming experiments on the Tibetan Plateau
